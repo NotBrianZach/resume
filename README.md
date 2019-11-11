@@ -1,5 +1,7 @@
+THIS WAS ORGINALLY the
 Square Open Source Portal
 =========================
+KEEPIN THIS AROUND IN CASE IT's RELEVANT LATER, (E.G. gem commands)
 
 [![Build Status](https://travis-ci.org/square/square.github.io.svg?branch=master)](https://travis-ci.org/square/square.github.io)
 
